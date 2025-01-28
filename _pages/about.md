@@ -37,7 +37,7 @@ My research focuses on the intersection of robotics, mobility, and artificial in
 
 Zhiyu Huang, Xinshuo Weng, Maximilian Igl, Yuxiao Chen, Yulong Cao, Boris Ivanovic, Marco Pavone, Chen Lv
 
-**arXiv, 2024**
+**IEEE International Conference on Robotics and Automation (ICRA), 2025**
 
 [**Paper**](https://arxiv.org/abs/2410.05582) \| [**Project**](https://mczhi.github.io/GenDrive/)
 
