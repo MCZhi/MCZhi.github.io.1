@@ -15,6 +15,8 @@ I am currently a postdoctoral scholar at the [UCLA Mobility Lab](https://mobilit
 My research focuses on the intersection of robotics, mobility, and artificial intelligence (AI). I aim to develop algorithms and techniques that enable machines/robots to interact with humans naturally and make intelligent decisions. My research interests include deep learning, reinforcement learning, and generative AI, applied to areas such as perception, prediction, decision-making, simulation in autonomous driving, and human-machine interaction. My work has led to the publication of over 30 papers in top AI, ITS, and robotics journals and conferences. 
 
 # 🔥 News
+- *2025.01*: &nbsp;🎉🎉 Our paper on generative driving policy and reinforcement learning fine-tuning has been accepted by ICRA!
+- *2024.12*: &nbsp;🎉🎉 Our paper on hybrid prediction integrated planning for autonomous driving has been accepted by TPAMI!
 - *2024.09*: &nbsp;🎉🎉 Our NAVSIM paper on end-to-end driving benchmark has been accepted at NeurIPS 2024 Datasets and Benchmarks Track!
 - *2024.07*: &nbsp;🎉🎉 Our ITSC invited session on [Learning-powered and Knowledge-driven Autonomous Driving](https://sites.google.com/view/itsc-lpad-2) has received 11 paper submissions, all of which were accepted. Congratulations to all the authors! Looking forward to seeing you in Edmonton, Canada!
 - *2024.06*: &nbsp;🎉🎉 Our team secured first place in the Waymo Open Dataset Occupancy Flow Challenge and second place in the Sim Agents Challenge! Check out our technical reports on the [Waymo challenge website](https://waymo.com/open/challenges/) and [CVPR 2024 Workshop on Autonomous Driving](https://cvpr2024.wad.vision/).
@@ -25,9 +27,7 @@ My research focuses on the intersection of robotics, mobility, and artificial in
 - *2023.09*: &nbsp;🎉🎉 We won the best paper runner-up award in ITSC 2023!
 - *2023.09*: &nbsp;🎉🎉 Our paper on human-guided reinforcement learning for robot navigation has been accepted by TPAMI!
 - *2023.08*: &nbsp;🎉🎉 Our GameFormer paper has been accepted by ICCV as **Oral presentation**!
-- *2023.06*: &nbsp;🎉🎉 Our team won the innovation award in the nuPlan Planning Challenge! Check out our [report](https://opendrivelab.com/e2ead/AD23Challenge/Track_4_AID.pdf) and [presentation](https://youtu.be/ZwhXilQKULY?t=1204) on our GameFormer Planner.
 
-  
 # 📝 Publications
 ## Highlights
 <div class='paper-box'><div class='paper-box-image'><img src='images/gendrive.png' alt="sym" width="100%"></div>
@@ -229,6 +229,8 @@ Zhiyu Huang, Chen Lv, Yang Xing, Jingda Wu
 
 ## All Publications
 ### Journal
+- [Hybrid-Prediction Integrated Planning for Autonomous Driving](https://ieeexplore.ieee.org/abstract/document/10833731), Haochen Liu, **Zhiyu Huang**, Wenhui Huang, Haohan Yang, Xiaoyu Mo, Chen Lv, **IEEE Transactions on Pattern Analysis and Machine Intelligence, 2025** [![](https://img.shields.io/github/stars/georgeliu233/HPP?style=social&label=Code Stars)](https://github.com/georgeliu233/HPP)
+
 - [Safety-Aware Human-in-the-Loop Reinforcement Learning With Shared Control for Autonomous Driving](https://ieeexplore.ieee.org/abstract/document/10596046), Wenhui Huang, Haochen Liu, **Zhiyu Huang**, Chen Lv, **IEEE Transactions on Intelligent Transportation Systems** [![](https://img.shields.io/github/stars/OscarHuangWind/Safe-Human-in-the-Loop-RL?style=social&label=Code Stars)](https://github.com/OscarHuangWind/Safe-Human-in-the-Loop-RL)
 
 - [Augmenting Reinforcement Learning with Transformer-based Scene Representation Learning for Decision-making of Autonomous Driving](https://arxiv.org/abs/2208.12263), Haochen Liu, **Zhiyu Huang**, Xiaoyu Mo, Chen Lv, **IEEE Transactions on Intelligent Vehicles, 2024** [![](https://img.shields.io/github/stars/georgeliu233/Scene-Rep-Transformer?style=social&label=Code Stars)](https://github.com/georgeliu233/Scene-Rep-Transformer) 
@@ -271,9 +273,10 @@ Zhiyu Huang, Chen Lv, Yang Xing, Jingda Wu
 - [Multi-scale driver behaviors reasoning system for intelligent vehicles based on a joint deep learning framework](https://ieeexplore.ieee.org/abstract/document/9283004), Yang Xing, Zhongxu Hu, **Zhiyu Huang**, Chen Lv, Dongpu Cao, Efstathios Velenis, **IEEE International Conference on Systems, Man, and Cybernetics (SMC), 2020**
 
 ### Preprint
-- [Hybrid-Prediction Integrated Planning for Autonomous Driving](https://arxiv.org/abs/2402.02426), Haochen Liu, **Zhiyu Huang**, Wenhui Huang, Haohan Yang, Xiaoyu Mo, Chen Lv, **arXiv, 2024** [![](https://img.shields.io/github/stars/georgeliu233/HPP?style=social&label=Code Stars)](https://github.com/georgeliu233/HPP)
+- [V2XPnP: Vehicle-to-Everything Spatio-Temporal Fusion for Multi-Agent Perception and Prediction](https://arxiv.org/abs/2412.01812), Zewei Zhou, **Zhiyu Huang**, Bolei Zhou, Jiaqi Ma, **arXiv, 2024** [![](https://img.shields.io/github/stars/Zewei-Zhou/V2XPnP?style=social&label=Code Stars)](https://github.com/Zewei-Zhou/V2XPnP)
 
 # 🎖 Honors and Awards
+- *2025.01* U.S. DOT Intersection Safety Challenge Tire 1 Winner
 - *2024.08* IEEE ITS Best Dissertation Award Finalist
 - *2024.07* Best Paper Award, [RSS 2024 workshop for Autonomous Vehicles Across Scale ](https://vindulamj.github.io/rss24-avas-workshop/)
 - *2024.06* [1st Place Winner, Waymo Open Dataset Occupancy Flow Challenge](http://cvpr2024.wad.vision/), CVPR Workshop on Autonomous Driving
